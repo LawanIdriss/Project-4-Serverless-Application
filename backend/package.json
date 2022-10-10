@@ -21,14 +21,14 @@
     "@types/node": "^10.17.60",
     "aws-sdk": "^2.1157.0",
     "serverless-aws-documentation": "^1.1.0",
-    "serverless-iam-roles-per-function": "^3.2.0",
+    "serverless-iam-roles-per-function": "^3.2.0-e97ab49",
     "serverless-plugin-canary-deployments": "^0.4.8",
     "serverless-reqvalidator-plugin": "^1.0.4",
     "serverless-webpack": "^5.7.1",
     "ts-loader": "^5.4.5",
     "typescript": "^3.9.10",
-    "webpack": "^4.46.0"
+    "webpack": "^5.73.0"
   },
-  "author": "Deepa Subramanian",
+  "author": "Caystone99",
   "license": "MIT"
 }
